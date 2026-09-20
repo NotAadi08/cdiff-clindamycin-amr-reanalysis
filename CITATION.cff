@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "C. difficile clindamycin AMR reanalysis"
-message: "Please cite the archived release DOI once assigned."
+message: "Please cite this software using the metadata in this file."
 type: software
 authors:
   - family-names: "Agrawal"
@@ -8,6 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0000-1843-3507"
     affiliation: "School of Health Sciences and Technology, UPES, Dehradun, Uttarakhand, India"
 version: 1.0.0
+doi: 10.5281/zenodo.22857762
 date-released: 2026-09-20
 repository-code: "https://github.com/NotAadi08/cdiff-clindamycin-amr-reanalysis"
 keywords:

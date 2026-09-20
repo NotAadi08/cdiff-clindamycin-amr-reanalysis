@@ -1,5 +1,9 @@
 # C. difficile clindamycin AMR reanalysis
 
+[![DOI](https://zenodo.org/badge/1378243404.svg)](https://doi.org/10.5281/zenodo.22857761)
+
+**Archived release v1.0.0:** https://doi.org/10.5281/zenodo.22857762
+
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1843--3507-A6CE39)](https://orcid.org/0009-0000-1843-3507)
 
 A reproducible bioinformatics reanalysis of genomic antimicrobial-resistance determinants associated with clindamycin resistance in *Clostridioides difficile*, using the EMBL-EBI Antimicrobial Resistance Portal 2026-07 phenotype-genotype release.

@@ -1,0 +1,3 @@
+database,n,resistant,susceptible,ermB_accuracy,ermB_sensitivity,ermB_specificity,TN,FP,FN,TP
+NCBI_antibiogram,23,23,0,0.9130434782608695,0.9130434782608695,,0,0,2,21
+PATRIC,79,12,67,0.9746835443037974,0.8333333333333334,1.0,67,0,2,10

@@ -1,0 +1,7 @@
+feature,phenotype,present,n,prevalence
+erm(B),Resistant,31,35,0.8857142857142857
+erm(B),Susceptible,0,67,0.0
+cfr(C),Resistant,24,35,0.6857142857142857
+cfr(C),Susceptible,0,67,0.0
+cplR,Resistant,35,35,1.0
+cplR,Susceptible,67,67,1.0

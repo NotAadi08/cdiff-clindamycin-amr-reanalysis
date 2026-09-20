@@ -1,0 +1,5 @@
+BioSample_ID,database,country,ast_standard,measurement,measurement_sign,measurement_units,resistance_phenotype,assembly_ID,AMR_associated_publications,cfr(C),cplR,erm(B)
+SAMN42552498,NCBI_antibiogram,,CLSI,8.0,==,mg/L,resistant,GCA_051108915.1,,0,1,0
+SAMN42552503,NCBI_antibiogram,,CLSI,256.0,==,mg/L,resistant,GCA_051114455.1,,0,1,0
+SAMEA3663998,PATRIC,Canada,,,,,resistant,GCA_900015515.1,27671088,0,1,0
+SAMEA3664209,PATRIC,Canada,,,,,resistant,GCA_900013025.1,27671088,0,1,0

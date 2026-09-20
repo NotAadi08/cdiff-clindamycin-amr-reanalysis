@@ -1,0 +1,28 @@
+{
+  "ermB_and_ml_predictions_identical": true,
+  "cfrC_positive_without_ermB": 0,
+  "false_negative_ids": [
+    "SAMN42552498",
+    "SAMN42552503",
+    "SAMEA3663998",
+    "SAMEA3664209"
+  ],
+  "source_counts": [
+    {
+      "database": "NCBI_antibiogram",
+      "phenotype": "resistant",
+      "n": 23
+    },
+    {
+      "database": "PATRIC",
+      "phenotype": "resistant",
+      "n": 12
+    },
+    {
+      "database": "PATRIC",
+      "phenotype": "susceptible",
+      "n": 67
+    }
+  ],
+  "interpretation": "At threshold 0.5, logistic-regression OOF classifications are identical to the erm(B)-only rule. cfr(C) is nested within erm(B) in this cohort and does not rescue any erm(B)-negative resistant isolate."
+}

@@ -1,0 +1,30 @@
+{
+  "data_sha256": "eb4111f5d3c58fcb7e0b29078182929847614c847cc0aa19c23cb4a3e5dbc92b",
+  "n_isolates": 102,
+  "resistant": 35,
+  "susceptible": 67,
+  "n_features": 3,
+  "features": [
+    "cfr(C)",
+    "cplR",
+    "erm(B)"
+  ],
+  "best_model": "Logistic regression",
+  "oof_roc_auc": 0.9036247334754798,
+  "oof_pr_auc": 0.9258823529411764,
+  "oof_accuracy": 0.9607843137254902,
+  "oof_balanced_accuracy": 0.9428571428571428,
+  "oof_f1": 0.9393939393939394,
+  "oof_sensitivity": 0.8857142857142857,
+  "oof_specificity": 1.0,
+  "confusion_matrix": [
+    [
+      67,
+      0
+    ],
+    [
+      4,
+      31
+    ]
+  ]
+}

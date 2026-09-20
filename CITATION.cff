@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "C. difficile clindamycin AMR reanalysis"
+message: "Please cite the archived release DOI once assigned."
+type: software
+authors:
+  - family-names: "Agrawal"
+    given-names: "Aditya"
+    orcid: "https://orcid.org/0009-0000-1843-3507"
+    affiliation: "School of Health Sciences and Technology, UPES, Dehradun, Uttarakhand, India"
+version: 1.0.0
+date-released: 2026-09-20
+repository-code: "https://github.com/NotAadi08/cdiff-clindamycin-amr-reanalysis"
+keywords:
+  - antimicrobial resistance
+  - Clostridioides difficile
+  - clindamycin
+  - reproducibility
+  - machine learning
+license: MIT
